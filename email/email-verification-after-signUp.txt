@@ -1,0 +1,6 @@
+Djibinho Camp App: Verifiziere deine Email Adresse
+
+<h2>Verifiziere deine Email Adresse</h2>
+
+<p>Klicke auf den folgenden Link damit du dich in der App anmelden kannst.</p>
+<p><a href="{{ .ConfirmationURL }}">Jetzt verifizieren</a></p>
